@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Francisco Godoy
 
-### Desarrollador Fullstack JavaScript
+## Desarrollador Fullstack JavaScript
 
-<img width="3168" height="1344" alt="Gemini_Generated_Image_l0hrjvl0hrjvl0hr" src="https://github.com/user-attachments/assets/37315dca-1b43-467d-94cd-73303da86d56" />
+# <img width="3168" height="1344" alt="Gemini_Generated_Image_l0hrjvl0hrjvl0hr" src="https://github.com/user-attachments/assets/37315dca-1b43-467d-94cd-73303da86d56" />
 
 
 
